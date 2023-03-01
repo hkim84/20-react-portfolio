@@ -1,7 +1,10 @@
 import React, { useState } from "react";
 import nps from "../../assets/images/NPScollabShot.PNG";
 import MMS from "../../assets/images/MMS.jpeg";
-
+import awa from "../../assets/images/apiweather.jpeg";
+import tba from "../../assets/images/techblog.jpeg";
+import pwa from "../../assets/images/pwa.jpeg";
+import wsa from "../../assets/images/workscheduler.jpeg";
 
 // PROJECT/PORTFOLIO COMPONENT
 const Portfolio = () => {
@@ -17,6 +20,30 @@ const Portfolio = () => {
         imgAsset: MMS,
         repoUrl: "https://github.com/TheBluWiz/mail-me-seeds",
         appUrl: "https://mail-me-seeds.herokuapp.com",
+      },
+      {
+        name: "Api weather gen",
+        imgAsset: awa,
+        repoUrl: "https://github.com/hkim84/06-Serversided-api-weather-dashboard",
+        appUrl: "https://hkim84.github.io/06-Serversided-api-weather-dashboard/",
+      },
+      {
+        name: "Tech Blog",
+        imgAsset: tba,
+        repoUrl: "https://github.com/hkim84/14-mvc-tech-blog",
+        appUrl: "https://git.heroku.com/techblog1.git",
+      },
+      {
+        name: "JATE",
+        imgAsset: pwa,
+        repoUrl: "https://github.com/hkim84/19-PWA-Text-Editor",
+        appUrl: "https://text-editor19-pwa.herokuapp.com/",
+      },
+      {
+        name: "Work Scheduler",
+        imgAsset: wsa,
+        repoUrl: "https://github.com/hkim84/05-Api-workday-scheduler",
+        appUrl: "https://hkim84.github.io/05-Api-workday-scheduler/",
       },
     ]);
 

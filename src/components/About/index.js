@@ -8,7 +8,7 @@ function About() {
       <h2>About Me</h2>
       <div className="section-content">
         <div className="about-me">
-          <img src={headshot} alt="my picture." />
+          <img src={headshot} alt="my picture"/>
           <p>
             Welcome! My name is Hoon. I live in Lakewood, WA and I am currently
             a student in the coding and web development bootcamp through the
