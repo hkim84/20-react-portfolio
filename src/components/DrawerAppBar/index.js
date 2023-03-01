@@ -99,7 +99,7 @@ function DrawerAppBar(props) {
               },
             }}
           >
-            AG
+            HK
           </Typography>
 
           <Box sx={{ display: { xs: "none", md: "block" } }}>
