@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/20-react-portfolio/static/css/main.188d6b38.css",
+    "main.js": "/20-react-portfolio/static/js/main.1499f891.js",
+    "static/media/hero-grid.jpg": "/20-react-portfolio/static/media/hero-grid.a5a33e2302502a599c07.jpg",
+    "static/media/NPScollabShot.PNG": "/20-react-portfolio/static/media/NPScollabShot.e2f9656e95c7dac6b817.PNG",
+    "static/media/MMS.jpeg": "/20-react-portfolio/static/media/MMS.7cc0f250425c6d01b0e0.jpeg",
+    "static/media/apiweather.jpeg": "/20-react-portfolio/static/media/apiweather.feb0a542fbcfa6c3ab58.jpeg",
+    "static/media/resume-screenshot.jpeg": "/20-react-portfolio/static/media/resume-screenshot.3c27edf6ad4442b79249.jpeg",
+    "static/media/workscheduler.jpeg": "/20-react-portfolio/static/media/workscheduler.b5b9e69afcd2373fe4c5.jpeg",
+    "static/media/pwa.jpeg": "/20-react-portfolio/static/media/pwa.11ed139b56684609b960.jpeg",
+    "static/media/headshot.jpg": "/20-react-portfolio/static/media/headshot.0a5a3ebf60107678ef4e.jpg",
+    "static/media/techblog.jpeg": "/20-react-portfolio/static/media/techblog.7a29ac8b7d649640e186.jpeg",
+    "static/media/octocat-icon.svg": "/20-react-portfolio/static/media/octocat-icon.df2540c63270ba9e655f8c445c037e8c.svg",
+    "static/media/linkedin-icon.svg": "/20-react-portfolio/static/media/linkedin-icon.638efb7d7215b3d929b73d73e06b7cd1.svg",
+    "static/media/stackOverflow-icon.svg": "/20-react-portfolio/static/media/stackOverflow-icon.02f49022b2257787e2a7a0cdd741a156.svg",
+    "index.html": "/20-react-portfolio/index.html",
+    "main.188d6b38.css.map": "/20-react-portfolio/static/css/main.188d6b38.css.map",
+    "main.1499f891.js.map": "/20-react-portfolio/static/js/main.1499f891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188d6b38.css",
+    "static/js/main.1499f891.js"
+  ]
+}
