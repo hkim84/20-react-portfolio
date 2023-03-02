@@ -1,7 +1,7 @@
 # 20-react-portfolio
 
 ## Description
-An application where user can create notes or code. it is used offline or without any internet connection. It has an integrated service work and cache api.
+A full stack app from css to react, using js with html to present a page of my own personal portfolio
 
 ## Table of Content
 - [Installation](## Installation)
@@ -26,7 +26,7 @@ npm i "@emotion/react": "^11.10.4",
       "web-vitals": "^2.1.4"
 
 ## Usage
-BY Running npm run start:dev
+BY Running npm run start
 it should build a dist list and open up its server on your computer to use.
 
 ## License
@@ -34,11 +34,9 @@ A link to more information on license
 [License: Unlicense](http://unlicense.org/)
 
 ## URL
-[URL](https://text-editor19-pwa.herokuapp.com/)
+[URL](https://hkim84.github.io/20-react-portfolio/)
 ## Github
-[Github](https://github.com/hkim84/19-PWA-Text-Editor)
+[Github](https://github.com/hkim84/20-react-portfolio)
 
 ## Screen Print
-![image](./images/19%20pwa%200.jpeg)
-![image](./images/19%20pwa%201.png)
-![image](./images/19%20pwa%202.png)
+![image](./src/assets/images/react%20hp.jpeg)
